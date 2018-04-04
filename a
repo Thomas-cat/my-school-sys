@@ -1,0 +1,841 @@
+登录成功
+<table border="0" cellpadding="0" cellspacing="0" class="titleTop2" width="100%">
+<tr>
+<td class="pageAlign">
+<table border="0" cellpadding="0" cellspacing="1" class="displayTag" id="user" width="100%">
+<thead>
+<tr>
+<th align="center" class="sortable" width="40"><strong>选择</strong></th>
+<th align="center" class="sortable" width="220">计划学年学期</th>
+<th align="center" class="sortable" width="100">课程号</th>
+<th align="center" class="sortable" width="200">课程名</th>
+<th align="center" class="sortable" width="100">课序号</th>
+<th align="center" class="sortable" width="100">学分</th>
+<th align="center" class="sortable" width="100">课程属性</th>
+<th align="center" class="sortable" width="100">考试类型</th>
+<th align="center" class="sortable" width="100">教师</th>
+<th align="center" class="sortable" width="100">课余量</th>
+<th align="center" class="sortable" width="100">选课模式</th>
+<th align="center" class="sortable" width="100">选课控制</th>
+<th align="center" class="sortable" width="100">选课限制说明</th>
+<th align="center" class="sortable" width="100">周次</th>
+<th align="center" class="sortable" width="100">星期</th>
+<th align="center" class="sortable" width="100">节次</th>
+<th align="center" class="sortable" width="100">节数</th>
+<th align="center" class="sortable" width="100">校区</th>
+<th align="center" class="sortable" width="100">教学楼</th>
+<th align="center" class="sortable" width="100">教室</th>
+</tr>
+</thead>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="2"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="2">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="2">
+		H18205</td>
+<td align="center" rowspan="2"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18205')" style="cursor:hand;">数字信号处理</a>
+</td>
+<td align="center" rowspan="2">
+		01</td>
+<td align="center" rowspan="2">
+		2.5</td>
+<td align="center" rowspan="2">
+		必修</td>
+<td align="center" rowspan="2">
+</td>
+<td align="center" rowspan="2">
+		冯英翘* </td>
+<td align="center" rowspan="2">
+		11</td>
+<td align="center" rowspan="2">
+		直选式</td>
+<td align="center" rowspan="2">
+		可选可退</td>
+<td align="center" rowspan="2"> 
+		;
+		
+		</td>
+<td align="center"> 1-9,11周上</td>
+<td align="center"> 1</td>
+<td align="center"> 5</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E311</td>
+</tr><tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center"> 1-9,11周上</td>
+<td align="center"> 5</td>
+<td align="center"> 3</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E311</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="2"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="2">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="2">
+		H18207</td>
+<td align="center" rowspan="2"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18207')" style="cursor:hand;">通信原理</a>
+</td>
+<td align="center" rowspan="2">
+		01</td>
+<td align="center" rowspan="2">
+		2.5</td>
+<td align="center" rowspan="2">
+		必修</td>
+<td align="center" rowspan="2">
+</td>
+<td align="center" rowspan="2">
+		王莎莎* </td>
+<td align="center" rowspan="2">
+		3</td>
+<td align="center" rowspan="2">
+		直选式</td>
+<td align="center" rowspan="2">
+		可选可退</td>
+<td align="center" rowspan="2"> 
+		;
+		
+		</td>
+<td align="center"> 1-4,6-9,11-12周上</td>
+<td align="center"> 1</td>
+<td align="center"> 3</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E209</td>
+</tr><tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center"> 1-4,6-9,11-12周上</td>
+<td align="center"> 3</td>
+<td align="center"> 3</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E209</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="2"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="2">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="2">
+		H18208</td>
+<td align="center" rowspan="2"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18208')" style="cursor:hand;">单片机原理及应用</a>
+</td>
+<td align="center" rowspan="2">
+		01</td>
+<td align="center" rowspan="2">
+		2.0</td>
+<td align="center" rowspan="2">
+		必修</td>
+<td align="center" rowspan="2">
+</td>
+<td align="center" rowspan="2">
+		崔博* </td>
+<td align="center" rowspan="2">
+		5</td>
+<td align="center" rowspan="2">
+		直选式</td>
+<td align="center" rowspan="2">
+		可选可退</td>
+<td align="center" rowspan="2"> 
+		;
+		
+		</td>
+<td align="center"> 1-8周上</td>
+<td align="center"> 2</td>
+<td align="center"> 1</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E314</td>
+</tr><tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center"> 1-8周上</td>
+<td align="center"> 4</td>
+<td align="center"> 3</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E314</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="1"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="1">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="1">
+		H18209</td>
+<td align="center" rowspan="1"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18209')" style="cursor:hand;">单片机原理及应用实验</a>
+</td>
+<td align="center" rowspan="1">
+		01</td>
+<td align="center" rowspan="1">
+		1.0</td>
+<td align="center" rowspan="1">
+		必修</td>
+<td align="center" rowspan="1">
+</td>
+<td align="center" rowspan="1">
+		崔博* </td>
+<td align="center" rowspan="1">
+		930</td>
+<td align="center" rowspan="1">
+		直选式</td>
+<td align="center" rowspan="1">
+		可选可退</td>
+<td align="center" rowspan="1"> 
+		;
+		
+		</td>
+<td align="center"> 全周上课</td>
+<td align="center"> 6</td>
+<td align="center"> 11</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> 实践教室</td>
+<td align="center"> 信息实践教室</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="1"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="1">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="1">
+		H18214</td>
+<td align="center" rowspan="1"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18214')" style="cursor:hand;">CPLD技术及应用</a>
+</td>
+<td align="center" rowspan="1">
+		01</td>
+<td align="center" rowspan="1">
+		1.5</td>
+<td align="center" rowspan="1">
+		必修</td>
+<td align="center" rowspan="1">
+</td>
+<td align="center" rowspan="1">
+		孙林* </td>
+<td align="center" rowspan="1">
+		4</td>
+<td align="center" rowspan="1">
+		直选式</td>
+<td align="center" rowspan="1">
+		可选可退</td>
+<td align="center" rowspan="1"> 
+		;
+		
+		</td>
+<td align="center"> 1-9,11-13周上</td>
+<td align="center"> 1</td>
+<td align="center"> 1</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E412</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="1"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="1">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="1">
+		H18215</td>
+<td align="center" rowspan="1"> 
+		
+		<div><a _fcksavedurl="#" class="alt" href="#" onclick="view_kcxx('2017-2018-2-1','H18215')">
+<span>CPLD技术及应用实验</span>CPLD技术及应用实...</a></div>
+</td>
+<td align="center" rowspan="1">
+		01</td>
+<td align="center" rowspan="1">
+		1.0</td>
+<td align="center" rowspan="1">
+		必修</td>
+<td align="center" rowspan="1">
+</td>
+<td align="center" rowspan="1">
+		孙林* </td>
+<td align="center" rowspan="1">
+		929</td>
+<td align="center" rowspan="1">
+		直选式</td>
+<td align="center" rowspan="1">
+		可选可退</td>
+<td align="center" rowspan="1"> 
+		;
+		
+		</td>
+<td align="center"> 全周上课</td>
+<td align="center"> 6</td>
+<td align="center"> 9</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> 实践教室</td>
+<td align="center"> 信息实践教室</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="2"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="2">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="2">
+		H18216</td>
+<td align="center" rowspan="2"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18216')" style="cursor:hand;">自动控制原理</a>
+</td>
+<td align="center" rowspan="2">
+		01</td>
+<td align="center" rowspan="2">
+		2.0</td>
+<td align="center" rowspan="2">
+		必修</td>
+<td align="center" rowspan="2">
+</td>
+<td align="center" rowspan="2">
+		刘利平* </td>
+<td align="center" rowspan="2">
+		3</td>
+<td align="center" rowspan="2">
+		直选式</td>
+<td align="center" rowspan="2">
+		可选可退</td>
+<td align="center" rowspan="2"> 
+		;
+		
+		</td>
+<td align="center"> 6-9,11-14周上</td>
+<td align="center"> 4</td>
+<td align="center"> 5</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HA座</td>
+<td align="center"> A306</td>
+</tr><tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center"> 6-9,11-14周上</td>
+<td align="center"> 2</td>
+<td align="center"> 5</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E309</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="1"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="1">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="1">
+		H18218</td>
+<td align="center" rowspan="1"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18218')" style="cursor:hand;">EDA课程设计</a>
+</td>
+<td align="center" rowspan="1">
+		01</td>
+<td align="center" rowspan="1">
+		3.0</td>
+<td align="center" rowspan="1">
+		必修</td>
+<td align="center" rowspan="1">
+</td>
+<td align="center" rowspan="1">
+		孙林* </td>
+<td align="center" rowspan="1">
+		929</td>
+<td align="center" rowspan="1">
+		直选式</td>
+<td align="center" rowspan="1">
+		可选可退</td>
+<td align="center" rowspan="1"> 
+		;
+		
+		</td>
+<td align="center"> 18-19周上</td>
+<td align="center"> 7</td>
+<td align="center"> 9</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> 实践教室</td>
+<td align="center"> 信息实践教室</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="1"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="1">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="1">
+		H18219</td>
+<td align="center" rowspan="1"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18219')" style="cursor:hand;">单片机课程设计</a>
+</td>
+<td align="center" rowspan="1">
+		01</td>
+<td align="center" rowspan="1">
+		1.5</td>
+<td align="center" rowspan="1">
+		必修</td>
+<td align="center" rowspan="1">
+</td>
+<td align="center" rowspan="1">
+		崔博* </td>
+<td align="center" rowspan="1">
+		930</td>
+<td align="center" rowspan="1">
+		直选式</td>
+<td align="center" rowspan="1">
+		可选可退</td>
+<td align="center" rowspan="1"> 
+		;
+		
+		</td>
+<td align="center"> 17周上</td>
+<td align="center"> 7</td>
+<td align="center"> 9</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> 实践教室</td>
+<td align="center"> 信息实践教室</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="2"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="2">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="2">
+		H18224</td>
+<td align="center" rowspan="2"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18224')" style="cursor:hand;">PLC原理及应用</a>
+</td>
+<td align="center" rowspan="2">
+		01</td>
+<td align="center" rowspan="2">
+		1.0</td>
+<td align="center" rowspan="2">
+		任选</td>
+<td align="center" rowspan="2">
+</td>
+<td align="center" rowspan="2">
+		孟如* </td>
+<td align="center" rowspan="2">
+		3</td>
+<td align="center" rowspan="2">
+		直选式</td>
+<td align="center" rowspan="2">
+		可选可退</td>
+<td align="center" rowspan="2"> 
+		;
+		
+		</td>
+<td align="center"> 1-4周上</td>
+<td align="center"> 2</td>
+<td align="center"> 5</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E309</td>
+</tr><tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center"> 1-4周上</td>
+<td align="center"> 5</td>
+<td align="center"> 1</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E309</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="1"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="1">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="1">
+		H18225</td>
+<td align="center" rowspan="1"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18225')" style="cursor:hand;">PLC原理及应用实验</a>
+</td>
+<td align="center" rowspan="1">
+		01</td>
+<td align="center" rowspan="1">
+		1.0</td>
+<td align="center" rowspan="1">
+		任选</td>
+<td align="center" rowspan="1">
+</td>
+<td align="center" rowspan="1">
+		孟如* </td>
+<td align="center" rowspan="1">
+		976</td>
+<td align="center" rowspan="1">
+		直选式</td>
+<td align="center" rowspan="1">
+		可选可退</td>
+<td align="center" rowspan="1"> 
+		;
+		
+		</td>
+<td align="center"> 全周上课</td>
+<td align="center"> 7</td>
+<td align="center"> 9</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> 实践教室</td>
+<td align="center"> 信息实践教室</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="1"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="1">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="1">
+		H18225</td>
+<td align="center" rowspan="1"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18225')" style="cursor:hand;">PLC原理及应用实验</a>
+</td>
+<td align="center" rowspan="1">
+		02</td>
+<td align="center" rowspan="1">
+		1.0</td>
+<td align="center" rowspan="1">
+		任选</td>
+<td align="center" rowspan="1">
+</td>
+<td align="center" rowspan="1">
+		孟如* </td>
+<td align="center" rowspan="1">
+		930</td>
+<td align="center" rowspan="1">
+		直选式</td>
+<td align="center" rowspan="1">
+		可选可退</td>
+<td align="center" rowspan="1"> 
+		;
+		
+		</td>
+<td align="center"> 全周上课</td>
+<td align="center"> 6</td>
+<td align="center"> 11</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> 实践教室</td>
+<td align="center"> 信息实践教室</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="2"> 
+	
+
+ 
+</td>
+<td align="center" rowspan="2">
+		2017-2018学年春季学期</td>
+<td align="center" rowspan="2">
+		H18233</td>
+<td align="center" rowspan="2"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18233')" style="cursor:hand;">专业外语</a>
+</td>
+<td align="center" rowspan="2">
+		01</td>
+<td align="center" rowspan="2">
+		3.0</td>
+<td align="center" rowspan="2">
+		任选</td>
+<td align="center" rowspan="2">
+</td>
+<td align="center" rowspan="2">
+		刘海英* </td>
+<td align="center" rowspan="2">
+		16</td>
+<td align="center" rowspan="2">
+		直选式</td>
+<td align="center" rowspan="2">
+		可选可退</td>
+<td align="center" rowspan="2"> 
+		;
+		
+		</td>
+<td align="center"> 1-4,6-9,11-14周上</td>
+<td align="center"> 1</td>
+<td align="center"> 7</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E209</td>
+</tr><tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center"> 1-4,6-9,11-14周上</td>
+<td align="center"> 5</td>
+<td align="center"> 7</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HE座</td>
+<td align="center"> E209</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="2"> 
+	
+
+<input name="kcId" onclick="checkSame(this.form,this,this.checked)" type="checkbox" value="H18213_01"/>
+</td>
+<td align="center" rowspan="2">
+		2018-2019学年秋季学期</td>
+<td align="center" rowspan="2">
+		H18213</td>
+<td align="center" rowspan="2"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18213')" style="cursor:hand;">数字图像处理技术</a>
+</td>
+<td align="center" rowspan="2">
+		01</td>
+<td align="center" rowspan="2">
+		2.0</td>
+<td align="center" rowspan="2">
+		必修</td>
+<td align="center" rowspan="2">
+</td>
+<td align="center" rowspan="2">
+		孙铁强* </td>
+<td align="center" rowspan="2">
+		11</td>
+<td align="center" rowspan="2">
+		直选式</td>
+<td align="center" rowspan="2">
+		可选可退</td>
+<td align="center" rowspan="2"> 
+		;
+		
+		</td>
+<td align="center"> 1-4,6-9周上</td>
+<td align="center"> 1</td>
+<td align="center"> 5</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HD座</td>
+<td align="center"> D115</td>
+</tr><tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center"> 1-4,6-9周上</td>
+<td align="center"> 3</td>
+<td align="center"> 5</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> HD座</td>
+<td align="center"> D115</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="1"> 
+	
+
+<input name="kcId" onclick="checkSame(this.form,this,this.checked)" type="checkbox" value="H18221_01"/>
+</td>
+<td align="center" rowspan="1">
+		2018-2019学年秋季学期</td>
+<td align="center" rowspan="1">
+		H18221</td>
+<td align="center" rowspan="1"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18221')" style="cursor:hand;">嵌入式系统课程设计</a>
+</td>
+<td align="center" rowspan="1">
+		01</td>
+<td align="center" rowspan="1">
+		3.0</td>
+<td align="center" rowspan="1">
+		必修</td>
+<td align="center" rowspan="1">
+</td>
+<td align="center" rowspan="1">
+		宋超* </td>
+<td align="center" rowspan="1">
+		976</td>
+<td align="center" rowspan="1">
+		直选式</td>
+<td align="center" rowspan="1">
+		可选可退</td>
+<td align="center" rowspan="1"> 
+		;
+		
+		</td>
+<td align="center"> 18-19周上</td>
+<td align="center"> 7</td>
+<td align="center"> 9</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> 实践教室</td>
+<td align="center"> 信息实践教室</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="1"> 
+	
+
+<input name="kcId" onclick="checkSame(this.form,this,this.checked)" type="checkbox" value="H18223_01"/>
+</td>
+<td align="center" rowspan="1">
+		2018-2019学年春季学期</td>
+<td align="center" rowspan="1">
+		H18223</td>
+<td align="center" rowspan="1"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18223')" style="cursor:hand;">毕业实习及毕业设计</a>
+</td>
+<td align="center" rowspan="1">
+		01</td>
+<td align="center" rowspan="1">
+		24.0</td>
+<td align="center" rowspan="1">
+		必修</td>
+<td align="center" rowspan="1">
+</td>
+<td align="center" rowspan="1">
+		许广宾* </td>
+<td align="center" rowspan="1">
+		934</td>
+<td align="center" rowspan="1">
+		直选式</td>
+<td align="center" rowspan="1">
+		可选可退</td>
+<td align="center" rowspan="1"> 
+		;
+		
+		</td>
+<td align="center"> 1-16周上</td>
+<td align="center"> 7</td>
+<td align="center"> 9</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> 实践教室</td>
+<td align="center"> 信息实践教室</td>
+</tr>
+<tr class="odd" onmouseout="this.className='even';" onmouseover="this.className='evenfocus';">
+<td align="center" rowspan="1"> 
+	
+
+<input name="kcId" onclick="checkSame(this.form,this,this.checked)" type="checkbox" value="H18223_02"/>
+</td>
+<td align="center" rowspan="1">
+		2018-2019学年春季学期</td>
+<td align="center" rowspan="1">
+		H18223</td>
+<td align="center" rowspan="1"> 
+		
+		<a onclick="view_kcxx('2017-2018-2-1','H18223')" style="cursor:hand;">毕业实习及毕业设计</a>
+</td>
+<td align="center" rowspan="1">
+		02</td>
+<td align="center" rowspan="1">
+		24.0</td>
+<td align="center" rowspan="1">
+		必修</td>
+<td align="center" rowspan="1">
+</td>
+<td align="center" rowspan="1">
+		许广宾* </td>
+<td align="center" rowspan="1">
+		975</td>
+<td align="center" rowspan="1">
+		直选式</td>
+<td align="center" rowspan="1">
+		可选可退</td>
+<td align="center" rowspan="1"> 
+		;
+		
+		</td>
+<td align="center"> 1-16周上</td>
+<td align="center"> 7</td>
+<td align="center"> 11</td>
+<td align="center"> 2</td>
+<td align="center"> 曹妃甸校区</td>
+<td align="center"> 实践教室</td>
+<td align="center"> 信息实践教室</td>
+</tr>
+</table>
+<input name="preActionType" type="hidden" value="2"/>
+<input name="actionType" type="hidden" value="9"/>
+<script language="javascript">
+function on_sub1(){
+var pagenumber1=document.getElementById("pageNumber1").value;
+if(pagenumber1==""){
+alert("请输入要跳转的页面！");
+return false;
+}
+
+document.getElementsByName("xkActionFormA")[0].submit();
+//	document.forms[0].submit();
+	
+}
+</script>
+<form action="xkAction.do" method="post" name="xkActionFormA">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right">
+
+
+
+
+
+
+
+ 共1页 第1页
+
+
+
+
+
+<!-- 090407hnn -->
+<img class="input1" onclick="on_sub1()" src="/img/icon/go.gif" style="cursor:hand" title="跳转到"/><input id="pageNumber1" name="pageNumber1" size="2" style="border: 1px solid #25658B" type="text"/>页
+<input name="actionType" type="hidden" value="2"/>
+</td>
+</tr>
+</table>
+</form>
+</td></tr></table>
